@@ -1,0 +1,75 @@
+                                     TEKU   
+1 Reverb	 Vert Wheeler	1 Karma Eiss	Chicane
+2 Drift Tech	 Tone Passaro	2 Kurt Wilde	Battle Spec
+3 Synkro	 Nolo Passaro	3 Nolo Pasaro	High Voltage
+4 Chicane	 Karma Eiss	 	 	 Spec Tyte
+5 Battle Spec	 Kurt Wilde	 	 	 Syncro
+
+6 Power Rage	 Vert Wheeler	4 Shirako Takamoto Bassline
+7 High Voltage	 Nolo Pasaro	5 Tone Passaro	Drift Tech
+8 SpecTyte	 Nolo Passaro	6 Vert Wheeler	Nightlife
+9 Bassline	 Shirako Takamoto	 	Power Rage
+10Nightlife	 Vert Wheeler	 	 	 Reverb
+
+
+
+
+                                     Metal Maniacs
+
+#	Carro	Piloto		 	Piloto	Carro
+1 Power Bomb	???????		                1 Deezel "Porkchop" Riggs Jack Hammer
+2 Flathead Fury	Markye"Wylde" Wylde		 	 	 	  Jaw Jammer
+3 Piledriver	Deezel "Porkchop" Riggs		 	 	          Piledriver
+
+4 Riveted	Taro Kitano		        2 Markye"Wylde" Wylde     Flathead Fury
+5 Hollowback	Tork Maddox		 	 	                  Spinebuster
+6 Rolling´ Thunder	Mitch "Monkey" McClurg	3 Mitch "Monkey" McClurg  Rat-ified
+                                                                          Rolling Thunder
+
+7 Spine Buster	Markye"Wylde" Wylde  					  
+8 Rat-ified	Mitch "Monkey" McClurg		4 Taro Kitano	Riveted
+9 Jack Hammer	Deezel "Porkchop" Riggs		5 Tork Maddox	Hollowback
+10Jaw Jammer	Deezel "Porkchop" Riggs		???????		Power Bomb
+
+
+
+                                  Racing Drones
+
+ Carro	 Piloto	         Piloto   Carro
+1 RD-01	 RD-S1	 	1 Gelorun RD09
+2 RD-02	 RD-S1	 	2 MD-01	  RD07
+3 RD-03	 RD-L1	 	3 RD-L1	  RD03
+4 RD-04	 RD-L1	 	 	  RD04
+5 RD-05	 RD-L1	 	 	  RD05
+6 RD-06	 RD-S1	 	 	  RD08
+7 RD-08	 RD-L1	 	4 RD-S1	  RD01
+8 RD-10	 RD-S1	 	 	  RD02
+9 RD-09	 Gelorun	 	  RD06
+10RD-07
+
+
+Robo  Gig
+a mecanica Lani
+cara Tezla
+Kadeem
+ela-Gelorum
+
+
+                                  Silencerz
+1	 Octainium	 carros
+2	 Nitrium	 
+3	 Anthracite	 
+4	 Iridium	 
+5	 Carbide	 
+6	 Covellite	 
+7	 Accelium	 
+8	 Metaloid	 
+9	 Technetium	 
+10	 Magnesium
+
+
+
+
+
+
+
